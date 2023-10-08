@@ -4,7 +4,7 @@ import 'package:push_app/presentation/blocs/notifications/notifications_bloc.dar
 
 class HomeScreen extends StatelessWidget {
   const HomeScreen({super.key});
-
+    
   @override
   Widget build(BuildContext context) {
     return Scaffold(
